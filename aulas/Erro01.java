@@ -1,7 +1,9 @@
 class Erro01 {
     public static void main (String[] args){
 
-        System.out.println("Olá Mundo " + args[0]);
+        int cont = 0;
+
+        System.out.println("Você Digitou " + cont);
     }
 
 }
