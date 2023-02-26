@@ -11,7 +11,7 @@ public class VariaveisChar {
         char i = 105;
         char interrogacao = 0x00e1; //valor '?'
 
-        System.out.println(""+o+i);
+        System.out.println(""+o+i+interrogacao);
 
     }
 }
