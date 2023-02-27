@@ -1,9 +1,0 @@
-class Erro01 {
-    public static void main (String[] args){
-
-        int cont = 0;
-
-        System.out.println("Você Digitou " + cont);
-    }
-
-}
