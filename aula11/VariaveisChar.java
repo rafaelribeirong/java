@@ -1,6 +1,4 @@
-package variaveis;
-
-public class VariaveisChar {
+class VariaveisChar {
     
     public static void main(String[] args) {
 

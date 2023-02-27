@@ -1,5 +1,4 @@
-package variaveis;
-public class VariaveisInteiras {
+class VariaveisInteiras {
 
     public static void main(String[] args) {
 

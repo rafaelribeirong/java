@@ -1,6 +1,4 @@
-package variaveis;
-
-public class VariaveisPontoFlutuantes {
+class VariaveisPontoFlutuantes {
     
     public static void main(String[] args) {
 

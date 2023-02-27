@@ -1,6 +1,4 @@
-package variaveis;
-
-public class VariaveisBoolean {
+class VariaveisBoolean {
 
     public static void main(String[] args) {
 
