@@ -6,15 +6,23 @@ public class PrecoProduto {
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Entre com o primeiro número:");
-        int num1 = scan.nextInt();
+        double preco1 = scan.nextDouble();
 
         System.out.println("Entre com o segundo número:");
-        int num2 = scan.nextInt();
+        double preco2 = scan.nextDouble();
 
         System.out.println("Entre com o terceiro número:");
-        int num3 = scan.nextInt();
+        double preco3 = scan.nextDouble();
 
-        
+        if (preco1 <= preco2 && preco1 <= preco3){
+            System.out.println("Compre o produto 1");
+        }  else if (preco2 <= preco1 && preco2 <= preco3){
+            System.out.println("Compre o produto 2");
+        } else if (preco3 <= preco1 && preco3 <= preco2){
+            System.out.println("Compre o produto 3");
+        }
+
+
 
     }
     
