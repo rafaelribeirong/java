@@ -14,6 +14,7 @@ public class LoopWhile {
             i++; // i = i + 1; ou i += 1;
 
         }
+        System.out.println(i);
     }
 
 }
